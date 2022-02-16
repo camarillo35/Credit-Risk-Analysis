@@ -30,4 +30,4 @@
 # Summary: 
 
 
-Easy Ensemble AdaBoost Classifier out-performed the other models with high risk recall of 91%. However, too many of the low risks were incorrectly detected as high risks. This will potentially cause a lot of unnecessary trouble to the lender.
+Easy Ensemble AdaBoost Classifier out-performed the other models. However, too many of the low risks were incorrectly detected as high risks. This will potentially cause a lot of unnecessary trouble to the lender.
