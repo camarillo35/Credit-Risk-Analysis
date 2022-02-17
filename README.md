@@ -62,4 +62,4 @@ High Risk Recall: 91%
 # Summary: 
 
 
-Easy Ensemble AdaBoost Classifier out-performed the other models. However, too many of the low risks were incorrectly detected as high risks. This will potentially cause a lot of unnecessary trouble to the lender.
+Easy Ensemble AdaBoost Classifier out-performed the other models. The Easy Ensemble learning model makes predictions based of several different models. By combining multiple models, it increases the performance and accuracy of the model. This is important when classifying high risk credit candidates for loans. However, too many of the low risks were incorrectly detected as high risks. This will potentially cause a lot of unnecessary trouble to the lender.
